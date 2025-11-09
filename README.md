@@ -45,7 +45,7 @@ Perfect for learning GUI development and event handling in Java!
    cd SnakeGame-Java
 
    
-##🕹️ How to Play
+## 🕹️ How to Play
 | Action       | Key          |
 | :----------- | :----------- |
 | Move Up      | ⬆️ Arrow Key |
@@ -59,9 +59,9 @@ Perfect for learning GUI development and event handling in Java!
 
 ##📂 Project Structure
 SnakeGame-Java/
-│
-├── SnakeGame.java      # Main source file
-├── README.md           # Project documentation
+-│
+-├── SnakeGame.java      # Main source file
+-├── README.md           # Project documentation
 
 ##🧑‍💻 Author
 
