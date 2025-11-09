@@ -57,13 +57,13 @@ Perfect for learning GUI development and event handling in Java!
 -Eat apples 🍎 to grow longer while avoiding collisions with walls or yourself!
 
 
-##📂 Project Structure
-SnakeGame-Java/
--│
--├── SnakeGame.java      # Main source file
--├── README.md           # Project documentation
+## 📂 Project Structure
+- SnakeGame-Java/
+- │
+- ├── SnakeGame.java      # Main source file
+- ├── README.md           # Project documentation
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 
--👋 Sanket Ghorai
--💻 Software Developer | Java & AI Enthusiast
+- 👋 Sanket Ghorai
+- 💻 Software Developer | Java & AI Enthusiast
